@@ -9,7 +9,7 @@ Trabalho realizado para a disciplina Arquitetura de Computadores 3 por
 Testes e simulações foram realizadas usando o simulador Sniper, em um Linux nativo com processador AMD® Ryzen 7 3700u with radeon vega mobile gfx × 8 
 
 # Instruções de execução
-Para executar os testes, clonar o repositório e, após fazer a instalação correta do Sniper e todos os componentes necessários em uma VM, WSL ou Linux nativo, executar no terminal:
+Para executar os testes, após fazer a instalação correta do Sniper e todos os componentes necessários em uma VM, WSL ou Linux nativo, executar os códigos de configuração descritos no documento códigos AC3, e executar no terminal:
 - cd snipersim
 
 Para ver a redução dos Stalls de Memória (CPI Stack): 

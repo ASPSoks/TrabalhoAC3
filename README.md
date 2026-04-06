@@ -1,5 +1,5 @@
 # Análise do Impacto do Tamanho da Cache L2 na Redução do Gargalo de Memória em AlgoritmosMatriciais
-Trabalho realizado para a disciplina AC3 por
+Trabalho realizado para a disciplina Arquitetura de Computadores 3 por
  - André Scianni Pereira
  - Davi Caetano Tavares Ramo
  - Enzo Moraes Martini
